@@ -4,3 +4,4 @@ langchain-openai
 langchain-core
 openai>=1.0.0
 tiktoken
+langchain-community
