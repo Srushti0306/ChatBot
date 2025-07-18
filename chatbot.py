@@ -12,7 +12,7 @@ import uuid
 
 
 
-os.environ["OPENAI_API_KEY"]="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"
+os.environ["OPENAI_API_KEY"]=st.secrets["OPENAI_API_KEY"]
 
 st.title("ChatBot")
 
